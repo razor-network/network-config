@@ -1,5 +1,5 @@
 - mnemonic: "pelican section taxi faith truly urban mention rail exhaust limb busy chair smile broom waste game favorite phrase detect oak segment bitter gaze tunnel"  # a 24 word BIP 39 mnemonic
   start: 0  # account index to start from
   count: 12
-  wd_address: 0x598216C4dfd3330d90FD7380640B15C9044adffD
+  wd_address: 0x70A0a396D3D73387846042B8B02508cE4c947dc4
   wd_prefix: 0x00
